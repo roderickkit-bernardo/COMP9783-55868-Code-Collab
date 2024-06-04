@@ -2,4 +2,6 @@
 
 ## c++ coding
 
-## javascipt coding
+## JavaScript coding
+
+## PHP coding
