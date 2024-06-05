@@ -1,7 +1,3 @@
-# Hello World
+# COMP9783-55868-Code-Collab Lab
 
-## c++ coding
-
-## JavaScript coding
-
-## PHP coding
+COMP9783-55868 Frontend Developers
