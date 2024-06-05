@@ -1,0 +1,14 @@
+/* Developer: Roderick Bernardo */
+/* Purpose: COMP9783-55868-Code-Collab */
+
+.is-gradient {
+  background: linear-gradient(90deg, #6366f1, #a855f7, #ec4899);
+}
+
+.full-height {
+  min-height: 100vh;
+}
+
+.no-scrollbars {
+  overflow: hidden;
+}

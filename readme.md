@@ -1,9 +1,7 @@
 # Hello World
 
-## C++ coding
+## c++ coding
 
 ## JavaScript coding
 
 ## PHP coding
-
-## C# coding
