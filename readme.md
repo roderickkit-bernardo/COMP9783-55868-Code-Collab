@@ -6,7 +6,7 @@ COMP9783-55868 Frontend Developers
 | ------------------------- | ----------- | ------- |
 | Bernardo, Roderick        | fb-rb-01    | Done    |
 | Bernardo, Rosemarie       | fb-rb-02    | Pending |
-| Casha, Albert             | fb-ca       | Pending |
+| Casha, Albert             | fb-ca       | Done    |
 | Hembrom, Errol            | fb-he       | Pending |
 | Hsu, Paul                 | fb-hp       | Pending |
 | Li, Chongming             | fb-lc       | Pending |
