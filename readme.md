@@ -10,6 +10,6 @@ COMP9783-55868 Frontend Developers
 | Hembrom, Errol            | fb-he       | Pending |
 | Hsu, Paul                 | fb-hp       | Pending |
 | Li, Chongming             | fb-lc       | Pending |
-| Norton-Mcintosh, Christie | fb-nmc      | Pending |
+| Norton-Mcintosh, Christie | fb-nmc      | Done    |
 | Shamimi, Ahmadreza        | fb-sa       | Done    |
 | Tam, King Sang            | fb-tks      | Done    |
