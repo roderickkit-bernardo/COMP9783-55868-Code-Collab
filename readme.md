@@ -11,5 +11,5 @@ COMP9783-55868 Frontend Developers
 | Hsu, Paul                 | fb-hp       | Pending |
 | Li, Chongming             | fb-lc       | Pending |
 | Norton-Mcintosh, Christie | fb-nmc      | Pending |
-| Shamimi, Ahmadreza        | fb-sa       | Pending |
+| Shamimi, Ahmadreza        | fb-sa       | Done    |
 | Tam, King Sang            | fb-tks      | Done    |
