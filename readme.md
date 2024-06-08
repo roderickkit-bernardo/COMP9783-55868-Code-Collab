@@ -12,4 +12,4 @@ COMP9783-55868 Frontend Developers
 | Li, Chongming             | fb-lc       | Pending |
 | Norton-Mcintosh, Christie | fb-nmc      | Pending |
 | Shamimi, Ahmadreza        | fb-sa       | Pending |
-| Tam, King Sang            | fb-tks      | Pending |
+| Tam, King Sang            | fb-tks      | Done    |
